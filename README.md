@@ -15,8 +15,12 @@ RF003 - O sistema deve conter uma lista das pessosas atendidas.
 
 # A saída esperada será:
 ATENDIMENTO: 2 - Atestado.
+
 SENHA: 1.
+
 HORA: 12:30.
+
 DATA: 06/01/2024.
+
 
 # O sistema será desenvolvido em linguagem C.
