@@ -7,9 +7,11 @@ será documentada sua senha, hora, data e tipo de atendimento.
 
 # Sistema de senhas Pronto atendimento da empresa SPA:
 
-RF001 - O sistema deve contar as pessoas atendidas, mostrar suas senhas e documentar a data, hora e tipo de atendimento.
-RF002 - O sistema deve oferecer 3 três tipos de atendimentos: Retorno de férias, Atestado, Periódico.
-RF003 - O sistema deve conter uma lista das pessosas atendidas.
+RF001 - O sistema deve contar as pessoas atendidas, mostrar suas senhas e documentar a data, hora e tipo de atendimento.\n
+
+RF002 - O sistema deve oferecer 3 três tipos de atendimentos: Retorno de férias, Atestado, Periódico.\n
+
+RF003 - O sistema deve conter uma lista das pessosas atendidas.\n
 
 # A saída esperada será:
 ATENDIMENTO: 2 - Atestado.
